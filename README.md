@@ -91,6 +91,5 @@ Images/
 
 Hardik Tyagi
 
-LinkedIn:
-(Your LinkedIn Profile)
+
 
